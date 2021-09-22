@@ -1,3 +1,8 @@
+* {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
 header,
 footer {
     background-color: #1F2937;
@@ -44,4 +49,11 @@ h4{
 
 .signup {
     background-color: #3882F6;
+}
+
+/* Flexbox: */
+
+.links {
+    display: flex;
+    
 }
